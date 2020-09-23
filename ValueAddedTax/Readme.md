@@ -1,6 +1,6 @@
 # ValueAddedTax
 
-A Tax Calculater made without Storyboard
+A Tax Calculater made without Storyboard (with UIKit)
 
 ## Preview
 
