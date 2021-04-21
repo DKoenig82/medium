@@ -1,6 +1,6 @@
 # UsereList
 
-A User List created with SsiftUI and CoreData
+A User List created with SwiftUI and CoreData
 
 ## Preview
 
