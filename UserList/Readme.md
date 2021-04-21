@@ -1,4 +1,4 @@
-# UsereList
+# UserList
 
 A User List created with SwiftUI and CoreData
 
